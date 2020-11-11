@@ -1,0 +1,16 @@
+HandlerL.o: HandlerL.C assert.h config.h casts.h attribute.h HandlerL.h \
+ compare.h bool.h
+
+assert.h:
+
+config.h:
+
+casts.h:
+
+attribute.h:
+
+HandlerL.h:
+
+compare.h:
+
+bool.h:

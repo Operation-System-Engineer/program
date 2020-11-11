@@ -1,0 +1,3 @@
+hash.o: hash.C hash.h
+
+hash.h:

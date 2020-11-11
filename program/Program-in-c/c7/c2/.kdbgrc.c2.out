@@ -1,0 +1,78 @@
+[Breakpoint 0]
+Enabled=true
+File=c2.c
+Line=2
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=c2.c
+Line=1
+Temporary=false
+
+[Breakpoint 10]
+Enabled=true
+File=c2.c
+Line=13
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=c2.c
+Line=4
+Temporary=false
+
+[Breakpoint 3]
+Enabled=true
+File=c2.c
+Line=3
+Temporary=false
+
+[Breakpoint 4]
+Enabled=true
+File=c2.c
+Line=5
+Temporary=false
+
+[Breakpoint 5]
+Enabled=true
+File=c2.c
+Line=6
+Temporary=false
+
+[Breakpoint 6]
+Enabled=true
+File=c2.c
+Line=7
+Temporary=false
+
+[Breakpoint 7]
+Enabled=true
+File=c2.c
+Line=9
+Temporary=false
+
+[Breakpoint 8]
+Enabled=true
+File=c2.c
+Line=10
+Temporary=false
+
+[Breakpoint 9]
+Enabled=true
+File=c2.c
+Line=12
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0

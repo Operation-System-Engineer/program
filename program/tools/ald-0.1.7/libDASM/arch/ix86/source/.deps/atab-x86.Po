@@ -1,0 +1,10 @@
+atab-x86.o: atab-x86.c ../include/common-x86.h ../include/operands-x86.h \
+ ../include/optab-x86.h ../include/regs-x86.h
+
+../include/common-x86.h:
+
+../include/operands-x86.h:
+
+../include/optab-x86.h:
+
+../include/regs-x86.h:

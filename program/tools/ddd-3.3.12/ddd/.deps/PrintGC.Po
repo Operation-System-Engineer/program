@@ -1,0 +1,37 @@
+PrintGC.o: PrintGC.C PrintGC.h bool.h config.h TypeInfo.h \
+ /usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/typeinfo \
+ /usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/exception \
+ /usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/i686-redhat-linux/bits/c++config.h \
+ /usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/i686-redhat-linux/bits/os_defines.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-32.h \
+ /usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/i686-redhat-linux/bits/cpu_defines.h
+
+PrintGC.h:
+
+bool.h:
+
+config.h:
+
+TypeInfo.h:
+
+/usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/typeinfo:
+
+/usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/exception:
+
+/usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/i686-redhat-linux/bits/c++config.h:
+
+/usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/i686-redhat-linux/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/lib/gcc/i686-redhat-linux/4.4.7/../../../../include/c++/4.4.7/i686-redhat-linux/bits/cpu_defines.h:

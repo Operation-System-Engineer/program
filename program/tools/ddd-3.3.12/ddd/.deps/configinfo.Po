@@ -1,0 +1,3 @@
+configinfo.o: configinfo.C configinfo.h
+
+configinfo.h:

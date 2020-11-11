@@ -1,0 +1,224 @@
+InitImage.o: InitImage.C InitImage.h /usr/include/X11/Xlib.h \
+ /usr/include/sys/types.h /usr/include/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h \
+ /usr/lib/gcc/i686-redhat-linux/4.4.7/include/stddef.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/X11/X.h \
+ /usr/include/X11/Xfuncproto.h /usr/include/X11/Xosdefs.h \
+ /usr/include/X11/Intrinsic.h /usr/include/X11/Xutil.h \
+ /usr/include/X11/keysym.h /usr/include/X11/keysymdef.h \
+ /usr/include/X11/Xresource.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/X11/Core.h \
+ /usr/include/X11/Composite.h /usr/include/X11/Constraint.h \
+ /usr/include/X11/Object.h /usr/include/X11/RectObj.h config.h assert.h \
+ casts.h attribute.h /usr/include/X11/Xlibint.h /usr/include/stdint.h \
+ /usr/include/bits/wchar.h /usr/include/X11/Xproto.h \
+ /usr/include/X11/Xmd.h /usr/include/X11/Xprotostr.h \
+ /usr/include/X11/XlibConf.h /usr/include/errno.h \
+ /usr/include/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/asm/errno.h /usr/include/asm-generic/errno.h \
+ /usr/include/asm-generic/errno-base.h /usr/include/X11/Xfuncs.h \
+ /usr/include/stdlib.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/alloca.h \
+ /usr/include/Xm/Xm.h /usr/include/X11/Shell.h \
+ /usr/include/X11/SM/SMlib.h /usr/include/X11/SM/SM.h \
+ /usr/include/X11/ICE/ICElib.h /usr/include/X11/ICE/ICE.h \
+ /usr/include/X11/Xatom.h /usr/include/X11/extensions/Print.h \
+ /usr/include/X11/Xauth.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/i686-redhat-linux/4.4.7/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/Xm/XmStrDefs.h \
+ /usr/include/X11/StringDefs.h /usr/include/Xm/XmStrDefs22.h \
+ /usr/include/Xm/XmStrDefs23.h /usr/include/Xm/VirtKeys.h \
+ /usr/include/Xm/Transfer.h /usr/include/Xm/DragC.h \
+ /usr/include/Xm/Display.h /usr/include/Xm/DropSMgr.h \
+ /usr/include/Xm/Primitive.h /usr/include/Xm/Manager.h \
+ /usr/include/Xm/Gadget.h /usr/include/Xm/TxtPropCv.h \
+ /usr/include/Xm/VendorS.h /usr/include/Xm/XmIm.h
+
+InitImage.h:
+
+/usr/include/X11/Xlib.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/lib/gcc/i686-redhat-linux/4.4.7/include/stddef.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/X11/X.h:
+
+/usr/include/X11/Xfuncproto.h:
+
+/usr/include/X11/Xosdefs.h:
+
+/usr/include/X11/Intrinsic.h:
+
+/usr/include/X11/Xutil.h:
+
+/usr/include/X11/keysym.h:
+
+/usr/include/X11/keysymdef.h:
+
+/usr/include/X11/Xresource.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/X11/Core.h:
+
+/usr/include/X11/Composite.h:
+
+/usr/include/X11/Constraint.h:
+
+/usr/include/X11/Object.h:
+
+/usr/include/X11/RectObj.h:
+
+config.h:
+
+assert.h:
+
+casts.h:
+
+attribute.h:
+
+/usr/include/X11/Xlibint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/X11/Xproto.h:
+
+/usr/include/X11/Xmd.h:
+
+/usr/include/X11/Xprotostr.h:
+
+/usr/include/X11/XlibConf.h:
+
+/usr/include/errno.h:
+
+/usr/include/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/include/X11/Xfuncs.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/alloca.h:
+
+/usr/include/Xm/Xm.h:
+
+/usr/include/X11/Shell.h:
+
+/usr/include/X11/SM/SMlib.h:
+
+/usr/include/X11/SM/SM.h:
+
+/usr/include/X11/ICE/ICElib.h:
+
+/usr/include/X11/ICE/ICE.h:
+
+/usr/include/X11/Xatom.h:
+
+/usr/include/X11/extensions/Print.h:
+
+/usr/include/X11/Xauth.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/i686-redhat-linux/4.4.7/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/Xm/XmStrDefs.h:
+
+/usr/include/X11/StringDefs.h:
+
+/usr/include/Xm/XmStrDefs22.h:
+
+/usr/include/Xm/XmStrDefs23.h:
+
+/usr/include/Xm/VirtKeys.h:
+
+/usr/include/Xm/Transfer.h:
+
+/usr/include/Xm/DragC.h:
+
+/usr/include/Xm/Display.h:
+
+/usr/include/Xm/DropSMgr.h:
+
+/usr/include/Xm/Primitive.h:
+
+/usr/include/Xm/Manager.h:
+
+/usr/include/Xm/Gadget.h:
+
+/usr/include/Xm/TxtPropCv.h:
+
+/usr/include/Xm/VendorS.h:
+
+/usr/include/Xm/XmIm.h:

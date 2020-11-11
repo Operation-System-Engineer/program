@@ -1,0 +1,1 @@
+elf32-i386.lo elf-vxworks.lo elf32.lo elf.lo elflink.lo elf-attrs.lo elf-strtab.lo elf-eh-frame.lo dwarf1.lo i386linux.lo aout32.lo efi-app-ia32.lo peigen.lo cofflink.lo efi-bsdrv-ia32.lo efi-rtdrv-ia32.lo elf32-gen.lo cpu-i386.lo trad-core.lo

@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+int main (void)
+
+{
+     int number;
+
+     printf("Type in your number: " );
+     scanf("%i", &number);
+
+     if (number < 0)
+        number = -number;
+
+     printf("THE adsolute value is %i\n ", number);
+
+     return 0;
+
+
+}

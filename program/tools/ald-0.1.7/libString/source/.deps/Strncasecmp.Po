@@ -1,0 +1,4 @@
+Strncasecmp.o: Strncasecmp.c \
+ /usr/lib/gcc/i686-redhat-linux/4.4.7/include/stddef.h
+
+/usr/lib/gcc/i686-redhat-linux/4.4.7/include/stddef.h:

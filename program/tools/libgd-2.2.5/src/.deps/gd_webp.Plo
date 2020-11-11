@@ -1,0 +1,3 @@
+gd_webp.lo: gd_webp.c config.h
+
+config.h:
